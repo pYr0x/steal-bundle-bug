@@ -1,0 +1,12 @@
+{
+  "name": "steal-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "steal": "^1.0.0-rc.0",
+    "steal-bundler": "github:stealjs/steal-bundler#windows-path"
+  },
+  "devDependencies": {
+    "steal-tools": "^1.0.0-rc.0"
+  }
+}
